@@ -1,0 +1,6 @@
+{
+  "name": "Quantum-Enhanced Adaptive Urban Traffic Optimization",
+  "description": "Smart City traffic management and quantum-enhanced optimization command center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

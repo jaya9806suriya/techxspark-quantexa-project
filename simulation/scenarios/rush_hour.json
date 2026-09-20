@@ -1,0 +1,10 @@
+{
+  "scenario_id": "RUSH_HOUR_01",
+  "name": "Metropolitan Morning Influx",
+  "duration_seconds": 3600,
+  "vehicle_generation_rate_vpm": 340,
+  "high_priority_corridors": ["EC-01"],
+  "target_nodes": ["N1", "N2", "N4", "N7"],
+  "quantum_optimization_active": true,
+  "adaptive_cycle_scaling": 1.25
+}

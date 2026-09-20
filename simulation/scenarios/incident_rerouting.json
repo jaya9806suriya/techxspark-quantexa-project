@@ -1,0 +1,9 @@
+{
+  "scenario_id": "INCIDENT_REROUTE_02",
+  "name": "Bay Bridge Ramp Stoppage",
+  "duration_seconds": 1800,
+  "blocked_edges": ["E5"],
+  "diverted_volume_pct": 85.0,
+  "quantum_rerouting_strategy": "QAOA_MAX_FLOW_SPLIT",
+  "expected_delay_reduction_pct": 32.4
+}
